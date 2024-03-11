@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: hu-qi
-          GIST_ID: a05ec4bd440093241159325077ded2ab
+          GIST_ID: 58e44d7caf80f3cd6302a3b8bf9f95e3
